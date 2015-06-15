@@ -1,0 +1,122 @@
+/* FONTS */
+/* TODO */
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,700,400italic,700italic|Droid+Sans+Mono);
+
+/* GENERAL */
+html {
+  font-size: 100%;
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+body {
+  font-family: 'Droid Serif', serif;
+  font-size: 18px;
+  letter-spacing: 0.33px;
+  color: #222;
+  line-height: 1.5em;
+  padding: 1em;
+  margin: auto;
+  max-width: 42em;
+  background: #fefefe;
+}
+
+::-moz-selection {
+  background: rgba(255,255,0,0.3);
+  color: #000;
+}
+
+::selection {
+  background: rgba(255,255,0,0.3);
+  color: #000;
+}
+
+a::-moz-selection {
+  background: rgba(255,255,0,0.3);
+  color: #0645ad;
+}
+
+p {
+  margin: 1em 0;
+}
+
+h1 {
+  font-weight: normal;
+  color: #111;
+  line-height: 1em;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 2.5em;
+}
+
+blockquote {
+  color: #666666;
+  margin: 0;
+  padding-left: 3em;
+  border-left: 0.5em #EEE solid;
+}
+
+strong {
+  font-weight: bold;
+}
+code {
+    font-family: 'Droid Sans Mono', monospace;
+}
+
+/* RESPONSIVE */
+@media only screen and (min-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+/* MENU */
+nav {
+  position: fixed;
+  right: 0;
+  top: 20%;
+  width: 8em;
+  margin-top: -2.5em;
+  background-color: rgba(54, 54, 92, .17);
+}
+nav a {
+    text-decoration: none;
+    color: #36365c;
+}
+
+/* PRINT */
+@media print {
+  * {
+    background: transparent !important;
+    color: black !important;
+    filter: none !important;
+    -ms-filter: none !important;
+  }
+
+  body {
+    max-width: 100%;
+    font-size: 14px !important;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  nav {
+    display: none;
+  }
+  @page :left {
+    margin: 15mm 20mm 15mm 10mm;
+  }
+
+  @page :right {
+    margin: 15mm 10mm 15mm 20mm;
+  }
+}
