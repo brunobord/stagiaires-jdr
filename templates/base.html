@@ -9,12 +9,14 @@
 </head>
 <body>
 {% block nav %}
+{% if False %}
 <nav>
     <ul class="nav">
         <li><a href="index.html">Stagiaires</a></li>
-        <li><a href="https://github.com/brunobord/stagiaires">github</a></li>
+        <li><a href="https://github.com/brunobord/stagiaires-jdr">github</a></li>
     </ul>
 </nav>
+{% endif %}
 {% endblock %}
 <section>
 {{ content }}
