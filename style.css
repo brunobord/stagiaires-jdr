@@ -1,5 +1,4 @@
 /* FONTS */
-/* TODO */
 @import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,700,400italic,700italic|Droid+Sans+Mono);
 
 /* GENERAL */
@@ -115,7 +114,6 @@ nav a {
     orphans: 3;
     widows: 3;
   }
-
   nav {
     display: none;
   }
