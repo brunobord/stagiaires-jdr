@@ -9,9 +9,9 @@ Nous avons bien noté que vous aviez déjà plusieurs cordes à votre arc :
 * `{COMPÉTENCE1}` au niveau +1,
 * `{COMPÉTENCE2}` au niveau +2,
 
-Cependant, du fait de votre niveau d'études, nous assignerons à vos autres productions le niveau -2.
+Cependant, du fait de votre niveau d'études, vos autres productions seront au niveau -2.
 
-Votre maître de stage sera `{NOMDUMAITREDESTAGE}` et dès votre arrivée, il vous indiquera vos tâches, qui seront soumises à un jet de ``2d6+niveau``. Notre barème se décline comme suit :
+Votre maître de stage sera `{NOMDUMAITREDESTAGE}`, qui vous indiquera vos tâches, qui seront soumises à un jet de ``2d6+niveau``. Notre barème se décline comme suit :
 
 * 6 ou moins, votre réalisation désastreuse aura certainement des conséquences fâcheuses pour la suite du stage,
 * entre 7 et 9, on peut parler de réussite, mais "peut mieux faire",
@@ -21,8 +21,8 @@ Nous sommes fiers de vous accueillir chez `{NOMDELASOCIÉTÉ}` et nous espérons
 
 ## Jour 1
 
-> Bon, c'est toi le nouveau stagiaire ? bon, ben tu suis le mouvement, c'est direction la machine à café, je te promets que tu en apprendras plus sur la boîte en fréquentant la salle repos que dans n'importe quelle réunion d'information.
+> Bon, c'est toi l'stagiaire ? bon, ben tu suis le mouvement, c'est direction la machine à café, je te promets que tu en apprendras plus sur la boîte en fréquentant la salle repos que dans n'importe quelle réunion d'information. Ah et ici, y'a la photocopieuse.
 
----
+----
 
 Bruno Bord - 2015 - CC-BY.
