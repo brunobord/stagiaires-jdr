@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
     parser = CommonMark.DocParser()
     renderer = CommonMark.HTMLRenderer()
-    with open('stagiaire.md', encoding='utf8') as fd:
+    with open('stagiaires.md', encoding='utf8') as fd:
         content = fd.read()
     ast = parser.parse(content)
     html = renderer.render(ast)
