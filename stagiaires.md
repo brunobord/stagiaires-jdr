@@ -2,7 +2,7 @@
 
 > Alors, c'est toi l'stagiaire ? bon, ben tu suis le mouvement, c'est direction la machine à café, je te promets que tu en apprendras plus sur la boîte en fréquentant la salle repos que dans n'importe quelle réunion d'information. Ah et ici, y'a la photocopieuse.
 
-Cher `{NOMDUSTAGIAIRE}`,
+`{NOMDUSTAGIAIRE}`,
 
 Nous sommes heureux que vous ayiez choisi `{NOMDELASOCIÉTÉ}` pour votre prochain stage. En effet, votre CV nous a paru idéal et notre société, spécialisée dans `{LISTEDESDOMAINESDACTIVITÉ}` aura plaisir à vous recevoir en tant que stagiaire `{SPÉCIALITÉ}` pendant `{DURÉE}`.
 
