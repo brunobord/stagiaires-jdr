@@ -19,7 +19,7 @@ Votre maître de stage sera `{NOMDUMAITREDESTAGE}`, qui vous indiquera vos tâch
 * entre 7 et 9, on peut parler de réussite, mais "peut mieux faire",
 * à 10 ou plus, votre action aura été effectuée avec brio.
 
-Nous sommes fiers de vous accueillir chez `{NOMDELASOCIÉTÉ}` et nous espérons que vous passerez un excellent stage, en compagnie de nos collaborateurs ou des autres (nombreux) stagiaires qui ont choisi `{NOMDELASOCIÉTÉ}` pour parfaire leur formation.
+`{NOMDUSTAGIAIRE}`, nous espérons que vous passerez un excellent stage au sein de `{NOMDELASOCIÉTÉ}`, en compagnie de nos collaborateurs ou des autres (nombreux) stagiaires qui nous ont choisi pour parfaire leur formation.
 
 ----
 
